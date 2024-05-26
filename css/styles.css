@@ -104,6 +104,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    padding: 24px 0;
     margin-right: 76px;
 }
 
@@ -160,7 +161,7 @@ img {
     color: #404bbf;
 }
 /*------- EXELLENS ----------*/
-.visually-hidden {
+.visual-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
